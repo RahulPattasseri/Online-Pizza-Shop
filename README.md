@@ -13,8 +13,8 @@
 
 ###
 
-<h2 align="left">Here is my working project link: \n
-https://onpizzashop.netlify.app/
+<h2 align="left">Here is my working project link: 
+<n>https://onpizzashop.netlify.app/
 </h2>
 
 ###
